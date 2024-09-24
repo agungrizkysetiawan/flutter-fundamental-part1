@@ -1,16 +1,33 @@
-# hello_world
+# NAMA : AGUNG RIZKY SETIAWAN
+# NIM : 2241720187
+# KELAS : TI-3C
+
 
 A new Flutter project.
+## --------------------Praktikum 1:---------------------------
+### tampilan jika sudah membuat project flutter
+![Screenshot hello_world](images/01.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## --------------------Praktikum 2:---------------------------
+### tampilan repository baru dengan nama "flutter-fundamental-part1"
+![Screenshot hello_world](images/02.png)
 
-A few resources to get you started if this is your first Flutter project:
+### tampilan sesudah membuat repository
+![Screenshot hello_world](images/03.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### tampilan hasil run > start debunging
+![Screenshot hello_world](images/04.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## --------------------Praktikum 3:---------------------------
+### Langkah 1: Text Widget Buat folder baru basic_widgets di dalam folder lib.
+![Screenshot hello_world](images/05.png)
+
+### Langkah 2: Image Widget Buat sebuah file image_widget.dart di dalam folder basic_widgets
+![Screenshot hello_world](images/06.png)
+
+### Tampilan hasil penggabungan antara langkah 1 dan langkah 2
+![Screenshot hello_world](images/07.png)
+
+
+
